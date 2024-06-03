@@ -8,7 +8,7 @@
 
 This application is made with the help of following tools, such as
   - React Router - Routing through components
-  - React Redux - To store components data on redux store
+  - React Redux - To store components data on redux store (State Management)
   - React icons - Styling icons
   - Tailwind CSS - Styling purpose
   - Material UI - pre-made components are easily implemented with this functionality
