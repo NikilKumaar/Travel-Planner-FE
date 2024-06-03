@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# TRAVEL PLANNER APP - FRONTEND APPLICATION
+- This is the capstone project which defines travel planner app made up of FrontEnd using ReactJS.
+- It consist of pages such as Home, Package, About & Login
+- Home Page - It defines the tour details of each place and destination.
+- Package Page - It details the tour packages for the user to find which package suits them in a perfect way.
+- About Page - It consist details of users
+- Login Page - It displays Login page, if the user does not have any account, We need to SignUp the account.
