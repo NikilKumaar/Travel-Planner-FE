@@ -85,7 +85,7 @@ From the above given procedure, our website working functionalities and how to i
 
 https://travelplanner-fe-mern.netlify.app
 
-- The above URL represents the FrontEnd Deployed URL. If it does not work properly you can check the below link of backEnd URL which acts as a live server.
+- The above URL represents the FrontEnd Deployed URL. If it does not work properly you can check the below link of backEnd URL which acts as a website.
 
 ## Render Deployed URL - WEBSITE LINK
 
